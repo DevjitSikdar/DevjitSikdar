@@ -60,7 +60,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="right" height="400" src="https://github.com/user-attachments/assets/ccf71bf2-629f-4509-a591-20d211fed2f7" />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/ccf71bf2-629f-4509-a591-20d211fed2f7" />
 
 ![](https://github-readme-stats.vercel.app/api?username=DevjitSikdar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevjitSikdar&theme=radical&hide_border=false)<br/> 
