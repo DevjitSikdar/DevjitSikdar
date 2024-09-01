@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrldev69&show_icons=true&locale=en" alt="ctrldev69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctrldev69&theme=default" alt="ctrldev69" /></p>
+
+## PYTHON PLAYING WITH MY CONTRIBUTIONS 
+![snake gif](https://github.com/DevjitSikdar/DevjitSikdar/blob/output/github-contribution-grid-snake.svg)
