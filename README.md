@@ -34,5 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctrldev69&theme=default" alt="ctrldev69" /></p>
 
-## PYTHON PLAYING WITH MY CONTRIBUTIONS 
-![snake gif](https://github.com/DevjitSikdar/DevjitSikdar/blob/output/github-contribution-grid-snake.svg)
